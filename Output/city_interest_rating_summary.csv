@@ -1,0 +1,1261 @@
+Total Rating Counts,Average of Ratings,city_sort,interest_sort
+6,4.38,Albany,amusement_park
+20,4.38,Albany,bar
+20,3.65,Albany,cafe
+9,3.3,Albany,casino
+20,4.11,Albany,hotel
+20,4.12,Albany,museum
+20,4.12,Albany,night_club
+20,4.51,Albany,restaurant
+20,3.96,Albany,spa
+18,3.38,Albany,stadium
+15,3.85,Albany,zoo
+2,3.85,Albuquerque,amusement_park
+20,4.24,Albuquerque,bar
+20,4.42,Albuquerque,cafe
+20,3.71,Albuquerque,casino
+20,3.79,Albuquerque,hotel
+20,4.53,Albuquerque,museum
+20,3.2,Albuquerque,night_club
+20,4.55,Albuquerque,restaurant
+2,4.1,Albuquerque,shopping_mall
+20,4.56,Albuquerque,spa
+12,3.98,Albuquerque,stadium
+1,4.5,Albuquerque,zoo
+2,3.85,Anchorage,amusement_park
+20,4.19,Anchorage,bar
+20,4.44,Anchorage,cafe
+10,3.38,Anchorage,casino
+20,4.12,Anchorage,hotel
+10,4.45,Anchorage,museum
+10,2.81,Anchorage,night_club
+20,4.53,Anchorage,restaurant
+20,4.3,Anchorage,spa
+13,4.34,Anchorage,stadium
+1,4.4,Anchorage,zoo
+4,4.4,Ann Arbor,amusement_park
+20,4.42,Ann Arbor,bar
+20,4.41,Ann Arbor,cafe
+10,4.0,Ann Arbor,casino
+20,4.26,Ann Arbor,hotel
+19,4.48,Ann Arbor,museum
+20,4.2,Ann Arbor,night_club
+20,4.46,Ann Arbor,restaurant
+20,3.8,Ann Arbor,shopping_mall
+20,4.47,Ann Arbor,spa
+1,4.7,Ann Arbor,stadium
+11,4.55,Ann Arbor,zoo
+20,3.9,Arlington,amusement_park
+20,4.31,Arlington,bar
+20,4.35,Arlington,cafe
+10,4.25,Arlington,casino
+20,3.99,Arlington,hotel
+20,2.93,Arlington,museum
+20,3.9,Arlington,night_club
+20,4.49,Arlington,restaurant
+2,4.4,Arlington,shopping_mall
+20,4.44,Arlington,spa
+14,4.32,Arlington,stadium
+9,4.29,Arlington,zoo
+4,3.48,Asheville,amusement_park
+20,4.46,Asheville,bar
+20,4.49,Asheville,cafe
+1,4.3,Asheville,casino
+20,4.4,Asheville,hotel
+20,4.51,Asheville,museum
+18,3.93,Asheville,night_club
+20,4.58,Asheville,restaurant
+1,4.1,Asheville,shopping_mall
+20,4.67,Asheville,spa
+9,3.48,Asheville,stadium
+4,4.68,Asheville,zoo
+14,4.49,Atlanta,amusement_park
+20,4.46,Atlanta,bar
+20,4.4,Atlanta,cafe
+19,3.5,Atlanta,casino
+20,4.2,Atlanta,hotel
+20,4.55,Atlanta,museum
+20,3.93,Atlanta,night_club
+20,4.58,Atlanta,restaurant
+3,4.0,Atlanta,shopping_mall
+20,4.44,Atlanta,spa
+20,4.22,Atlanta,stadium
+1,4.4,Atlanta,zoo
+13,3.99,Austin,amusement_park
+20,4.5,Austin,bar
+20,4.43,Austin,cafe
+20,3.62,Austin,casino
+20,4.38,Austin,hotel
+20,4.48,Austin,museum
+20,4.1,Austin,night_club
+20,4.64,Austin,restaurant
+16,4.06,Austin,shopping_mall
+20,4.46,Austin,spa
+20,4.18,Austin,stadium
+3,4.43,Austin,zoo
+2,4.35,Bakersfield,amusement_park
+20,4.26,Bakersfield,bar
+20,4.5,Bakersfield,cafe
+7,4.3,Bakersfield,casino
+20,4.02,Bakersfield,hotel
+5,4.44,Bakersfield,museum
+20,3.73,Bakersfield,night_club
+20,4.54,Bakersfield,restaurant
+5,4.14,Bakersfield,shopping_mall
+20,4.48,Bakersfield,spa
+5,3.56,Bakersfield,stadium
+1,4.7,Bakersfield,zoo
+6,1.88,Baltimore,amusement_park
+20,4.43,Baltimore,bar
+20,4.47,Baltimore,cafe
+4,3.95,Baltimore,casino
+20,4.15,Baltimore,hotel
+20,4.53,Baltimore,museum
+20,3.78,Baltimore,night_club
+20,4.53,Baltimore,restaurant
+6,3.9,Baltimore,shopping_mall
+20,4.24,Baltimore,spa
+6,4.5,Baltimore,stadium
+1,4.4,Baltimore,zoo
+1,4.3,Bellevue,amusement_park
+20,4.21,Bellevue,bar
+20,4.28,Bellevue,cafe
+14,4.1,Bellevue,casino
+20,4.25,Bellevue,hotel
+13,3.01,Bellevue,museum
+8,2.45,Bellevue,night_club
+20,4.42,Bellevue,restaurant
+1,4.4,Bellevue,shopping_mall
+20,4.14,Bellevue,spa
+9,4.29,Bellevue,stadium
+13,4.25,Bellevue,zoo
+2,4.6,Bellingham,amusement_park
+20,4.47,Bellingham,bar
+20,4.53,Bellingham,cafe
+20,4.16,Bellingham,casino
+20,4.23,Bellingham,hotel
+9,4.17,Bellingham,museum
+11,3.54,Bellingham,night_club
+20,4.5,Bellingham,restaurant
+20,4.6,Bellingham,spa
+5,4.54,Bellingham,stadium
+5,4.04,Bellingham,zoo
+4,4.6,Berkeley,amusement_park
+20,4.39,Berkeley,bar
+20,4.43,Berkeley,cafe
+8,2.82,Berkeley,casino
+20,3.91,Berkeley,hotel
+19,4.2,Berkeley,museum
+14,4.1,Berkeley,night_club
+20,4.51,Berkeley,restaurant
+20,4.49,Berkeley,spa
+17,3.31,Berkeley,stadium
+12,4.3,Berkeley,zoo
+4,3.95,Birmingham,amusement_park
+20,4.3,Birmingham,bar
+20,4.52,Birmingham,cafe
+20,3.32,Birmingham,casino
+20,3.84,Birmingham,hotel
+20,3.53,Birmingham,night_club
+20,4.68,Birmingham,restaurant
+3,4.2,Birmingham,shopping_mall
+20,3.73,Birmingham,spa
+20,3.79,Birmingham,stadium
+7,4.39,Birmingham,zoo
+1,4.6,Boise,amusement_park
+20,4.48,Boise,bar
+20,4.22,Boise,cafe
+4,2.35,Boise,casino
+20,4.22,Boise,hotel
+14,4.44,Boise,museum
+17,3.71,Boise,night_club
+20,4.54,Boise,restaurant
+20,4.57,Boise,spa
+10,3.65,Boise,stadium
+1,4.2,Boise,zoo
+13,4.29,Boston,amusement_park
+20,4.4,Boston,bar
+20,4.49,Boston,cafe
+20,4.14,Boston,casino
+20,4.38,Boston,hotel
+20,4.56,Boston,museum
+20,3.36,Boston,night_club
+20,4.57,Boston,restaurant
+20,3.88,Boston,spa
+20,4.1,Boston,stadium
+8,3.81,Boston,zoo
+3,4.37,Boulder,amusement_park
+20,4.41,Boulder,bar
+20,4.49,Boulder,cafe
+19,3.26,Boulder,casino
+20,4.31,Boulder,hotel
+12,4.58,Boulder,museum
+15,3.7,Boulder,night_club
+20,4.57,Boulder,restaurant
+20,4.29,Boulder,spa
+20,2.46,Boulder,stadium
+9,3.64,Boulder,zoo
+4,4.5,Brooklyn,amusement_park
+20,4.53,Brooklyn,bar
+20,4.5,Brooklyn,cafe
+12,2.88,Brooklyn,casino
+20,4.01,Brooklyn,hotel
+20,4.47,Brooklyn,museum
+20,3.69,Brooklyn,night_club
+20,4.5,Brooklyn,restaurant
+1,4.2,Brooklyn,shopping_mall
+20,4.45,Brooklyn,spa
+2,4.45,Brooklyn,stadium
+11,3.94,Brooklyn,zoo
+9,4.09,Buffalo,amusement_park
+20,4.42,Buffalo,bar
+20,4.55,Buffalo,cafe
+2,4.0,Buffalo,casino
+20,4.28,Buffalo,hotel
+20,4.58,Buffalo,museum
+20,3.37,Buffalo,night_club
+20,4.53,Buffalo,restaurant
+1,4.7,Buffalo,shopping_mall
+20,3.38,Buffalo,spa
+20,4.21,Buffalo,stadium
+1,4.3,Buffalo,zoo
+2,4.1,Burlington,amusement_park
+20,4.04,Burlington,bar
+20,4.26,Burlington,cafe
+3,4.0,Burlington,casino
+20,3.95,Burlington,hotel
+20,3.45,Burlington,museum
+20,3.79,Burlington,night_club
+20,4.5,Burlington,restaurant
+20,4.4,Burlington,spa
+14,3.74,Burlington,stadium
+3,3.17,Burlington,zoo
+8,4.54,Charleston,amusement_park
+20,4.51,Charleston,bar
+20,4.62,Charleston,cafe
+15,3.61,Charleston,casino
+20,4.23,Charleston,hotel
+20,4.53,Charleston,museum
+20,4.16,Charleston,night_club
+20,4.66,Charleston,restaurant
+1,4.0,Charleston,shopping_mall
+20,4.66,Charleston,spa
+20,3.76,Charleston,stadium
+11,4.25,Charleston,zoo
+20,4.22,Charlotte,amusement_park
+20,4.42,Charlotte,bar
+20,4.57,Charlotte,cafe
+18,3.99,Charlotte,casino
+20,4.37,Charlotte,hotel
+20,4.56,Charlotte,museum
+20,3.58,Charlotte,night_club
+20,4.55,Charlotte,restaurant
+6,4.25,Charlotte,shopping_mall
+20,4.47,Charlotte,spa
+5,4.5,Charlotte,stadium
+16,4.53,Charlotte,zoo
+5,4.56,Chattanooga,amusement_park
+20,4.51,Chattanooga,bar
+20,4.59,Chattanooga,cafe
+4,3.35,Chattanooga,casino
+20,4.15,Chattanooga,hotel
+20,4.64,Chattanooga,museum
+17,3.62,Chattanooga,night_club
+20,4.56,Chattanooga,restaurant
+1,4.2,Chattanooga,shopping_mall
+20,4.62,Chattanooga,spa
+7,4.26,Chattanooga,stadium
+1,4.4,Chattanooga,zoo
+12,4.15,Chicago,amusement_park
+20,4.6,Chicago,bar
+20,4.57,Chicago,cafe
+20,3.48,Chicago,casino
+20,4.42,Chicago,hotel
+20,4.57,Chicago,museum
+20,3.49,Chicago,night_club
+20,4.65,Chicago,restaurant
+4,4.08,Chicago,shopping_mall
+20,4.46,Chicago,spa
+20,3.66,Chicago,stadium
+20,4.23,Chicago,zoo
+11,4.31,Cincinnati,amusement_park
+20,4.46,Cincinnati,bar
+20,4.45,Cincinnati,cafe
+6,3.75,Cincinnati,casino
+20,4.31,Cincinnati,hotel
+20,4.6,Cincinnati,museum
+20,4.23,Cincinnati,night_club
+20,4.53,Cincinnati,restaurant
+8,3.96,Cincinnati,shopping_mall
+20,4.64,Cincinnati,spa
+9,4.56,Cincinnati,stadium
+2,2.3,Cincinnati,zoo
+7,3.76,Cleveland,amusement_park
+20,4.38,Cleveland,bar
+20,4.54,Cleveland,cafe
+6,3.98,Cleveland,casino
+20,4.3,Cleveland,hotel
+20,4.56,Cleveland,museum
+20,4.15,Cleveland,night_club
+20,4.57,Cleveland,restaurant
+2,3.9,Cleveland,shopping_mall
+20,4.0,Cleveland,spa
+3,4.57,Cleveland,stadium
+1,4.6,Cleveland,zoo
+5,4.38,Columbia,amusement_park
+20,4.38,Columbia,bar
+20,4.31,Columbia,cafe
+5,4.34,Columbia,casino
+20,4.03,Columbia,hotel
+14,4.55,Columbia,museum
+20,3.63,Columbia,night_club
+20,4.5,Columbia,restaurant
+1,4.4,Columbia,shopping_mall
+20,4.44,Columbia,spa
+20,3.77,Columbia,stadium
+2,4.75,Columbia,zoo
+11,4.27,Columbus,amusement_park
+20,4.33,Columbus,bar
+20,4.6,Columbus,cafe
+15,3.43,Columbus,casino
+20,4.26,Columbus,hotel
+20,4.58,Columbus,museum
+20,3.89,Columbus,night_club
+20,4.58,Columbus,restaurant
+8,3.75,Columbus,shopping_mall
+20,4.68,Columbus,spa
+6,4.62,Columbus,stadium
+3,4.67,Columbus,zoo
+19,4.4,Dallas,amusement_park
+20,4.47,Dallas,bar
+20,4.42,Dallas,cafe
+11,3.03,Dallas,casino
+20,4.4,Dallas,hotel
+20,4.63,Dallas,museum
+20,3.84,Dallas,night_club
+20,4.54,Dallas,restaurant
+5,4.3,Dallas,shopping_mall
+20,4.38,Dallas,spa
+20,4.06,Dallas,stadium
+1,4.5,Dallas,zoo
+20,4.4,Dayton,bar
+20,4.22,Dayton,cafe
+9,3.7,Dayton,casino
+20,4.11,Dayton,hotel
+20,4.48,Dayton,museum
+20,4.24,Dayton,night_club
+20,4.51,Dayton,restaurant
+1,3.9,Dayton,shopping_mall
+20,4.62,Dayton,spa
+20,3.85,Dayton,stadium
+11,4.18,Dayton,zoo
+20,2.92,Denver,amusement_park
+20,4.53,Denver,bar
+20,4.56,Denver,cafe
+20,3.72,Denver,casino
+20,4.42,Denver,hotel
+20,4.57,Denver,museum
+20,3.85,Denver,night_club
+20,4.65,Denver,restaurant
+2,4.25,Denver,shopping_mall
+20,4.47,Denver,spa
+9,4.53,Denver,stadium
+3,4.57,Denver,zoo
+1,4.4,Des Moines,amusement_park
+20,4.43,Des Moines,bar
+20,4.06,Des Moines,cafe
+15,3.76,Des Moines,casino
+20,4.16,Des Moines,hotel
+17,4.58,Des Moines,museum
+20,4.14,Des Moines,night_club
+20,4.57,Des Moines,restaurant
+20,4.04,Des Moines,shopping_mall
+20,3.91,Des Moines,spa
+17,3.68,Des Moines,stadium
+2,4.35,Des Moines,zoo
+6,3.63,Detroit,amusement_park
+20,4.45,Detroit,bar
+20,4.48,Detroit,cafe
+20,4.18,Detroit,hotel
+20,4.61,Detroit,museum
+20,3.82,Detroit,night_club
+20,4.43,Detroit,restaurant
+1,3.9,Detroit,shopping_mall
+20,4.24,Detroit,spa
+19,4.16,Detroit,stadium
+3,4.53,Detroit,zoo
+6,3.65,El Paso,amusement_park
+20,4.39,El Paso,bar
+20,4.6,El Paso,cafe
+18,3.02,El Paso,casino
+20,4.14,El Paso,hotel
+20,4.53,El Paso,museum
+20,3.92,El Paso,night_club
+20,4.48,El Paso,restaurant
+3,4.17,El Paso,shopping_mall
+20,4.3,El Paso,spa
+20,4.22,El Paso,stadium
+1,4.3,El Paso,zoo
+20,4.31,Eugene,bar
+20,4.42,Eugene,cafe
+20,4.12,Eugene,casino
+20,4.27,Eugene,hotel
+9,4.48,Eugene,museum
+12,3.98,Eugene,night_club
+20,4.56,Eugene,restaurant
+20,4.62,Eugene,spa
+11,4.05,Eugene,stadium
+3,4.63,Eugene,zoo
+20,4.27,Everett,bar
+20,4.48,Everett,cafe
+20,3.76,Everett,hotel
+8,3.49,Everett,museum
+8,3.72,Everett,night_club
+20,4.46,Everett,restaurant
+20,4.14,Everett,spa
+12,4.28,Everett,stadium
+3,4.53,Everett,zoo
+2,2.05,Fayetteville,amusement_park
+20,4.13,Fayetteville,bar
+20,4.02,Fayetteville,cafe
+7,1.71,Fayetteville,casino
+20,4.07,Fayetteville,hotel
+9,4.1,Fayetteville,museum
+20,3.94,Fayetteville,night_club
+20,4.53,Fayetteville,restaurant
+2,3.95,Fayetteville,shopping_mall
+20,4.2,Fayetteville,spa
+20,3.11,Fayetteville,stadium
+3,4.63,Fayetteville,zoo
+4,3.3,Fort Myers,amusement_park
+20,4.34,Fort Myers,bar
+20,4.51,Fort Myers,cafe
+20,3.3,Fort Myers,casino
+20,3.68,Fort Myers,hotel
+14,4.51,Fort Myers,museum
+20,3.94,Fort Myers,night_club
+20,4.56,Fort Myers,restaurant
+20,4.3,Fort Myers,shopping_mall
+20,4.02,Fort Myers,spa
+17,3.88,Fort Myers,stadium
+16,4.41,Fort Myers,zoo
+4,4.6,Fort Wayne,amusement_park
+20,4.31,Fort Wayne,bar
+20,4.61,Fort Wayne,cafe
+20,4.24,Fort Wayne,casino
+20,4.12,Fort Wayne,hotel
+15,4.12,Fort Wayne,museum
+20,3.6,Fort Wayne,night_club
+20,4.55,Fort Wayne,restaurant
+2,3.9,Fort Wayne,shopping_mall
+20,4.49,Fort Wayne,spa
+20,3.37,Fort Wayne,stadium
+2,4.7,Fort Wayne,zoo
+20,4.47,Fort Worth,bar
+20,4.42,Fort Worth,cafe
+14,3.62,Fort Worth,casino
+20,4.35,Fort Worth,hotel
+20,4.58,Fort Worth,museum
+20,4.15,Fort Worth,night_club
+20,4.63,Fort Worth,restaurant
+3,4.2,Fort Worth,shopping_mall
+20,4.54,Fort Worth,spa
+20,3.93,Fort Worth,stadium
+4,4.45,Fort Worth,zoo
+8,2.24,Fresno,amusement_park
+20,4.36,Fresno,bar
+20,4.35,Fresno,cafe
+20,3.34,Fresno,casino
+20,3.91,Fresno,hotel
+16,3.37,Fresno,museum
+20,3.4,Fresno,night_club
+20,4.57,Fresno,restaurant
+20,4.12,Fresno,spa
+20,4.06,Fresno,stadium
+3,4.9,Fresno,zoo
+2,4.35,Gainesville,amusement_park
+20,4.18,Gainesville,bar
+20,4.38,Gainesville,cafe
+17,3.79,Gainesville,casino
+20,4.14,Gainesville,hotel
+20,3.47,Gainesville,museum
+20,3.72,Gainesville,night_club
+20,4.49,Gainesville,restaurant
+20,4.46,Gainesville,spa
+3,4.67,Gainesville,stadium
+10,4.47,Gainesville,zoo
+1,4.3,Grand Rapids,amusement_park
+20,4.38,Grand Rapids,bar
+20,4.62,Grand Rapids,cafe
+20,3.42,Grand Rapids,casino
+20,4.19,Grand Rapids,hotel
+20,3.36,Grand Rapids,museum
+20,4.25,Grand Rapids,night_club
+20,4.56,Grand Rapids,restaurant
+1,4.1,Grand Rapids,shopping_mall
+20,4.65,Grand Rapids,spa
+6,4.53,Grand Rapids,stadium
+1,4.5,Grand Rapids,zoo
+5,4.36,Greensboro,amusement_park
+20,4.46,Greensboro,bar
+20,4.36,Greensboro,cafe
+7,3.5,Greensboro,casino
+20,4.15,Greensboro,hotel
+11,4.55,Greensboro,museum
+20,3.44,Greensboro,night_club
+20,4.56,Greensboro,restaurant
+1,4.0,Greensboro,shopping_mall
+20,4.45,Greensboro,spa
+14,4.09,Greensboro,stadium
+2,4.7,Greensboro,zoo
+3,2.93,Hartford,amusement_park
+20,4.1,Hartford,bar
+20,4.51,Hartford,cafe
+17,4.13,Hartford,casino
+20,4.04,Hartford,hotel
+20,4.2,Hartford,museum
+20,3.56,Hartford,night_club
+20,4.48,Hartford,restaurant
+20,3.56,Hartford,spa
+16,3.76,Hartford,stadium
+10,4.05,Hartford,zoo
+6,3.88,Honolulu,amusement_park
+20,4.45,Honolulu,bar
+20,4.46,Honolulu,cafe
+6,2.22,Honolulu,casino
+20,3.95,Honolulu,hotel
+20,4.4,Honolulu,museum
+20,3.61,Honolulu,night_club
+20,4.56,Honolulu,restaurant
+6,4.08,Honolulu,shopping_mall
+20,4.54,Honolulu,spa
+4,4.35,Honolulu,stadium
+1,4.2,Honolulu,zoo
+20,4.12,Houston,amusement_park
+20,4.48,Houston,bar
+20,4.38,Houston,cafe
+20,3.54,Houston,casino
+20,4.27,Houston,hotel
+20,3.72,Houston,night_club
+20,4.64,Houston,restaurant
+2,4.25,Houston,shopping_mall
+20,4.51,Houston,spa
+20,4.28,Houston,stadium
+1,4.6,Houston,zoo
+7,4.41,Huntsville,amusement_park
+20,4.33,Huntsville,bar
+20,4.5,Huntsville,cafe
+6,3.95,Huntsville,casino
+20,4.31,Huntsville,hotel
+13,4.44,Huntsville,museum
+14,3.17,Huntsville,night_club
+20,4.56,Huntsville,restaurant
+5,4.34,Huntsville,shopping_mall
+20,4.21,Huntsville,spa
+11,4.19,Huntsville,stadium
+6,4.43,Huntsville,zoo
+14,4.44,Indianapolis,amusement_park
+20,4.33,Indianapolis,bar
+20,4.45,Indianapolis,cafe
+20,3.49,Indianapolis,casino
+20,4.38,Indianapolis,hotel
+20,4.61,Indianapolis,museum
+20,4.04,Indianapolis,night_club
+20,4.56,Indianapolis,restaurant
+5,3.92,Indianapolis,shopping_mall
+20,4.37,Indianapolis,spa
+2,4.55,Indianapolis,stadium
+3,4.4,Indianapolis,zoo
+7,3.13,Irvine,amusement_park
+20,4.35,Irvine,bar
+20,4.31,Irvine,cafe
+14,3.29,Irvine,casino
+20,4.2,Irvine,hotel
+7,4.17,Irvine,museum
+20,4.04,Irvine,night_club
+20,4.43,Irvine,restaurant
+3,4.27,Irvine,shopping_mall
+20,3.92,Irvine,spa
+20,3.9,Irvine,stadium
+4,4.55,Irvine,zoo
+11,4.04,Jacksonville,amusement_park
+20,4.47,Jacksonville,bar
+20,4.51,Jacksonville,cafe
+3,4.1,Jacksonville,casino
+20,3.99,Jacksonville,hotel
+20,4.33,Jacksonville,museum
+19,3.86,Jacksonville,night_club
+20,4.54,Jacksonville,restaurant
+1,4.3,Jacksonville,shopping_mall
+20,4.47,Jacksonville,spa
+6,4.55,Jacksonville,stadium
+1,4.6,Jacksonville,zoo
+10,4.26,Jersey City,amusement_park
+20,4.42,Jersey City,bar
+20,4.43,Jersey City,cafe
+20,3.83,Jersey City,casino
+20,3.89,Jersey City,hotel
+20,4.51,Jersey City,museum
+20,4.03,Jersey City,night_club
+20,4.53,Jersey City,restaurant
+20,3.66,Jersey City,spa
+20,3.85,Jersey City,stadium
+17,3.89,Jersey City,zoo
+2,3.9,Kansas City,amusement_park
+20,4.55,Kansas City,bar
+20,4.61,Kansas City,cafe
+20,3.44,Kansas City,casino
+20,4.2,Kansas City,hotel
+20,4.47,Kansas City,museum
+20,3.85,Kansas City,night_club
+20,4.62,Kansas City,restaurant
+3,4.0,Kansas City,shopping_mall
+20,4.58,Kansas City,spa
+20,4.03,Kansas City,stadium
+1,4.6,Kansas City,zoo
+6,4.2,Knoxville,amusement_park
+20,4.38,Knoxville,bar
+20,4.48,Knoxville,cafe
+5,3.08,Knoxville,casino
+20,4.37,Knoxville,hotel
+16,4.31,Knoxville,museum
+20,3.77,Knoxville,night_club
+20,4.58,Knoxville,restaurant
+8,3.99,Knoxville,shopping_mall
+20,4.53,Knoxville,spa
+1,4.7,Knoxville,stadium
+1,4.5,Knoxville,zoo
+1,4.3,Las Vegas,amusement_park
+20,4.54,Las Vegas,bar
+20,4.36,Las Vegas,cafe
+20,4.25,Las Vegas,casino
+20,4.19,Las Vegas,hotel
+20,4.5,Las Vegas,museum
+20,3.44,Las Vegas,night_club
+20,4.63,Las Vegas,restaurant
+5,3.48,Las Vegas,shopping_mall
+20,4.18,Las Vegas,spa
+20,4.27,Las Vegas,stadium
+8,4.39,Las Vegas,zoo
+3,4.47,Lexington,amusement_park
+20,4.38,Lexington,bar
+20,4.61,Lexington,cafe
+4,4.1,Lexington,casino
+20,4.11,Lexington,hotel
+20,4.28,Lexington,museum
+20,3.84,Lexington,night_club
+20,4.56,Lexington,restaurant
+1,4.4,Lexington,shopping_mall
+20,4.6,Lexington,spa
+20,4.27,Lexington,stadium
+12,4.06,Lexington,zoo
+1,4.3,Little Rock,amusement_park
+20,4.41,Little Rock,bar
+20,3.99,Little Rock,cafe
+10,3.03,Little Rock,casino
+20,4.17,Little Rock,hotel
+20,4.53,Little Rock,museum
+20,4.07,Little Rock,night_club
+20,4.58,Little Rock,restaurant
+1,4.5,Little Rock,shopping_mall
+20,4.61,Little Rock,spa
+2,4.25,Little Rock,stadium
+1,4.2,Little Rock,zoo
+20,4.51,Long Beach,bar
+20,4.49,Long Beach,cafe
+20,3.06,Long Beach,casino
+20,4.2,Long Beach,hotel
+19,4.6,Long Beach,museum
+20,4.09,Long Beach,night_club
+20,4.54,Long Beach,restaurant
+1,4.1,Long Beach,shopping_mall
+20,4.57,Long Beach,spa
+20,4.51,Long Beach,stadium
+13,4.46,Long Beach,zoo
+20,4.43,Los Angeles,bar
+20,4.51,Los Angeles,cafe
+20,3.87,Los Angeles,casino
+20,4.36,Los Angeles,hotel
+20,4.6,Los Angeles,museum
+20,3.82,Los Angeles,night_club
+20,4.6,Los Angeles,restaurant
+1,4.1,Los Angeles,shopping_mall
+20,4.34,Los Angeles,spa
+20,4.56,Los Angeles,stadium
+2,4.5,Los Angeles,zoo
+10,4.37,Louisville,amusement_park
+20,4.37,Louisville,bar
+20,4.57,Louisville,cafe
+11,3.96,Louisville,casino
+20,4.36,Louisville,hotel
+20,4.6,Louisville,museum
+20,3.76,Louisville,night_club
+20,4.48,Louisville,restaurant
+4,4.22,Louisville,shopping_mall
+20,4.56,Louisville,spa
+20,4.33,Louisville,stadium
+1,4.5,Louisville,zoo
+5,3.36,Lubbock,amusement_park
+20,4.24,Lubbock,bar
+20,4.4,Lubbock,cafe
+2,1.9,Lubbock,casino
+20,4.15,Lubbock,hotel
+8,4.66,Lubbock,museum
+20,3.3,Lubbock,night_club
+20,4.52,Lubbock,restaurant
+2,3.95,Lubbock,shopping_mall
+20,4.47,Lubbock,spa
+12,4.19,Lubbock,stadium
+12,4.62,Lubbock,zoo
+4,4.35,Madison,amusement_park
+20,4.39,Madison,bar
+20,4.35,Madison,cafe
+3,3.93,Madison,casino
+20,4.38,Madison,hotel
+14,4.16,Madison,museum
+20,4.05,Madison,night_club
+20,4.6,Madison,restaurant
+1,4.1,Madison,shopping_mall
+20,4.45,Madison,spa
+20,4.24,Madison,stadium
+1,4.6,Madison,zoo
+7,4.27,Memphis,amusement_park
+20,4.33,Memphis,bar
+20,4.45,Memphis,cafe
+18,3.8,Memphis,casino
+20,4.17,Memphis,hotel
+20,3.94,Memphis,night_club
+20,4.62,Memphis,restaurant
+1,4.1,Memphis,shopping_mall
+20,4.61,Memphis,spa
+6,4.28,Memphis,stadium
+1,4.7,Memphis,zoo
+17,2.98,Miami,amusement_park
+20,4.44,Miami,bar
+20,4.48,Miami,cafe
+13,3.76,Miami,casino
+20,4.28,Miami,hotel
+20,4.41,Miami,museum
+20,3.82,Miami,night_club
+20,4.54,Miami,restaurant
+2,4.3,Miami,shopping_mall
+20,4.46,Miami,spa
+20,4.15,Miami,stadium
+3,4.5,Miami,zoo
+11,3.95,Milwaukee,amusement_park
+20,4.53,Milwaukee,bar
+20,4.6,Milwaukee,cafe
+1,4.0,Milwaukee,casino
+20,4.37,Milwaukee,hotel
+20,4.64,Milwaukee,museum
+20,3.84,Milwaukee,night_club
+20,4.65,Milwaukee,restaurant
+2,3.9,Milwaukee,shopping_mall
+20,4.38,Milwaukee,spa
+3,4.43,Milwaukee,stadium
+1,4.6,Milwaukee,zoo
+12,3.93,Minneapolis,amusement_park
+20,4.49,Minneapolis,bar
+20,4.51,Minneapolis,cafe
+20,3.78,Minneapolis,casino
+20,4.35,Minneapolis,hotel
+20,4.56,Minneapolis,museum
+20,3.74,Minneapolis,night_club
+20,4.66,Minneapolis,restaurant
+2,4.3,Minneapolis,shopping_mall
+20,4.58,Minneapolis,spa
+3,4.5,Minneapolis,stadium
+19,4.68,Minneapolis,zoo
+10,3.89,Nashville,amusement_park
+20,4.43,Nashville,bar
+20,4.54,Nashville,cafe
+15,4.09,Nashville,casino
+20,4.32,Nashville,hotel
+20,4.52,Nashville,museum
+20,4.1,Nashville,night_club
+20,4.66,Nashville,restaurant
+20,4.52,Nashville,spa
+9,4.37,Nashville,stadium
+1,4.5,Nashville,zoo
+2,4.25,New Orleans,amusement_park
+20,4.57,New Orleans,bar
+20,4.54,New Orleans,cafe
+8,3.89,New Orleans,casino
+20,4.23,New Orleans,hotel
+20,4.44,New Orleans,museum
+20,4.26,New Orleans,night_club
+20,4.63,New Orleans,restaurant
+20,4.34,New Orleans,spa
+3,4.5,New Orleans,stadium
+11,4.62,New Orleans,zoo
+5,4.4,New York,amusement_park
+20,4.48,New York,bar
+20,4.4,New York,cafe
+8,3.72,New York,casino
+20,4.29,New York,hotel
+20,4.53,New York,museum
+20,3.72,New York,night_club
+20,4.52,New York,restaurant
+3,4.33,New York,shopping_mall
+20,4.39,New York,spa
+20,4.01,New York,stadium
+9,4.49,New York,zoo
+2,4.7,Oakland,amusement_park
+20,4.44,Oakland,bar
+20,4.52,Oakland,cafe
+8,3.64,Oakland,casino
+20,3.81,Oakland,hotel
+20,3.96,Oakland,museum
+20,3.86,Oakland,night_club
+20,4.57,Oakland,restaurant
+20,4.37,Oakland,spa
+2,4.35,Oakland,stadium
+1,4.5,Oakland,zoo
+1,0.0,Oklahoma City,amusement_park
+20,4.51,Oklahoma City,bar
+20,4.46,Oklahoma City,cafe
+20,3.83,Oklahoma City,casino
+20,4.28,Oklahoma City,hotel
+20,4.65,Oklahoma City,museum
+20,3.98,Oklahoma City,night_club
+20,4.58,Oklahoma City,restaurant
+4,4.15,Oklahoma City,shopping_mall
+20,4.35,Oklahoma City,spa
+6,4.53,Oklahoma City,stadium
+1,4.6,Oklahoma City,zoo
+20,4.39,Olympia,bar
+20,4.44,Olympia,cafe
+3,4.0,Olympia,casino
+20,3.81,Olympia,hotel
+7,4.54,Olympia,museum
+5,3.96,Olympia,night_club
+20,4.5,Olympia,restaurant
+1,4.1,Olympia,shopping_mall
+20,4.6,Olympia,spa
+8,3.69,Olympia,stadium
+8,4.42,Olympia,zoo
+20,4.08,Orlando,amusement_park
+20,4.46,Orlando,bar
+20,4.47,Orlando,cafe
+20,3.73,Orlando,casino
+20,4.4,Orlando,hotel
+20,4.58,Orlando,museum
+20,3.92,Orlando,night_club
+20,4.61,Orlando,restaurant
+2,4.35,Orlando,shopping_mall
+20,4.3,Orlando,spa
+5,4.68,Orlando,stadium
+20,4.26,Orlando,zoo
+4,4.28,Peoria,amusement_park
+20,4.42,Peoria,bar
+20,4.03,Peoria,cafe
+7,4.2,Peoria,casino
+20,4.16,Peoria,hotel
+10,4.69,Peoria,museum
+20,3.82,Peoria,night_club
+20,4.58,Peoria,restaurant
+2,4.0,Peoria,shopping_mall
+20,4.44,Peoria,spa
+7,4.29,Peoria,stadium
+1,4.4,Peoria,zoo
+9,3.89,Philadelphia,amusement_park
+20,4.43,Philadelphia,bar
+20,4.46,Philadelphia,cafe
+6,4.2,Philadelphia,casino
+20,4.35,Philadelphia,hotel
+20,3.55,Philadelphia,night_club
+20,4.65,Philadelphia,restaurant
+4,4.2,Philadelphia,shopping_mall
+20,4.25,Philadelphia,spa
+20,4.31,Philadelphia,stadium
+20,4.32,Philadelphia,zoo
+14,3.66,Phoenix,amusement_park
+20,4.48,Phoenix,bar
+20,4.56,Phoenix,cafe
+20,3.9,Phoenix,casino
+20,4.27,Phoenix,hotel
+20,4.53,Phoenix,museum
+20,3.88,Phoenix,night_club
+20,4.63,Phoenix,restaurant
+1,3.9,Phoenix,shopping_mall
+20,4.38,Phoenix,spa
+3,4.57,Phoenix,stadium
+2,4.45,Phoenix,zoo
+6,3.55,Pittsburgh,amusement_park
+20,4.37,Pittsburgh,bar
+20,4.58,Pittsburgh,cafe
+1,3.9,Pittsburgh,casino
+20,4.39,Pittsburgh,hotel
+20,4.65,Pittsburgh,museum
+20,3.94,Pittsburgh,night_club
+20,4.58,Pittsburgh,restaurant
+20,4.55,Pittsburgh,spa
+5,4.6,Pittsburgh,stadium
+1,4.5,Pittsburgh,zoo
+8,4.15,Portland,amusement_park
+40,4.56,Portland,bar
+40,4.56,Portland,cafe
+40,3.4,Portland,casino
+40,4.44,Portland,hotel
+40,4.47,Portland,museum
+40,3.8,Portland,night_club
+40,4.7,Portland,restaurant
+6,4.0,Portland,shopping_mall
+40,4.55,Portland,spa
+40,3.48,Portland,stadium
+2,4.5,Portland,zoo
+9,4.37,Raleigh,amusement_park
+20,4.38,Raleigh,bar
+20,4.52,Raleigh,cafe
+11,4.0,Raleigh,casino
+20,4.22,Raleigh,hotel
+20,4.3,Raleigh,museum
+20,3.46,Raleigh,night_club
+20,4.57,Raleigh,restaurant
+3,4.33,Raleigh,shopping_mall
+20,4.56,Raleigh,spa
+16,4.52,Raleigh,stadium
+17,4.58,Raleigh,zoo
+3,4.13,Reno,amusement_park
+20,4.44,Reno,bar
+20,4.44,Reno,cafe
+20,3.9,Reno,casino
+20,4.02,Reno,hotel
+14,3.91,Reno,museum
+20,3.48,Reno,night_club
+20,4.58,Reno,restaurant
+20,4.64,Reno,spa
+20,3.68,Reno,stadium
+2,4.3,Reno,zoo
+3,2.93,Richmond,amusement_park
+20,4.37,Richmond,bar
+20,4.44,Richmond,cafe
+13,3.32,Richmond,casino
+20,4.18,Richmond,hotel
+20,4.54,Richmond,museum
+20,2.96,Richmond,night_club
+20,4.47,Richmond,restaurant
+20,4.04,Richmond,spa
+1,4.5,Richmond,zoo
+2,4.4,Rochester,amusement_park
+20,4.44,Rochester,bar
+20,4.51,Rochester,cafe
+20,3.28,Rochester,casino
+20,4.12,Rochester,hotel
+20,3.71,Rochester,night_club
+20,4.59,Rochester,restaurant
+1,4.5,Rochester,shopping_mall
+20,4.51,Rochester,spa
+20,3.98,Rochester,stadium
+1,4.4,Rochester,zoo
+9,3.94,Sacramento,amusement_park
+20,4.45,Sacramento,bar
+20,4.46,Sacramento,cafe
+20,3.96,Sacramento,casino
+20,4.22,Sacramento,hotel
+20,4.03,Sacramento,museum
+18,3.99,Sacramento,night_club
+20,4.64,Sacramento,restaurant
+2,4.1,Sacramento,shopping_mall
+20,4.53,Sacramento,spa
+11,4.36,Sacramento,stadium
+1,4.3,Sacramento,zoo
+1,4.2,Saint Louis,amusement_park
+20,4.49,Saint Louis,bar
+20,4.5,Saint Louis,cafe
+20,3.64,Saint Louis,casino
+20,4.14,Saint Louis,hotel
+20,3.99,Saint Louis,night_club
+20,4.65,Saint Louis,restaurant
+20,4.18,Saint Louis,spa
+10,4.47,Saint Louis,stadium
+1,4.8,Saint Louis,zoo
+1,4.3,Saint Paul,amusement_park
+20,4.36,Saint Paul,bar
+20,4.52,Saint Paul,cafe
+4,4.32,Saint Paul,casino
+20,4.18,Saint Paul,hotel
+20,4.58,Saint Paul,museum
+20,4.33,Saint Paul,night_club
+20,4.64,Saint Paul,restaurant
+20,4.06,Saint Paul,shopping_mall
+20,4.1,Saint Paul,spa
+20,4.19,Saint Paul,stadium
+1,4.6,Saint Paul,zoo
+3,4.5,Saint Petersburg,amusement_park
+20,4.54,Saint Petersburg,bar
+20,4.51,Saint Petersburg,cafe
+12,3.6,Saint Petersburg,casino
+20,4.55,Saint Petersburg,hotel
+20,4.71,Saint Petersburg,museum
+20,4.16,Saint Petersburg,night_club
+20,4.61,Saint Petersburg,restaurant
+20,4.14,Saint Petersburg,shopping_mall
+20,4.51,Saint Petersburg,spa
+1,4.6,Saint Petersburg,stadium
+1,4.3,Saint Petersburg,zoo
+2,2.4,Salem,amusement_park
+20,3.5,Salem,bar
+20,4.03,Salem,cafe
+5,4.58,Salem,casino
+20,3.94,Salem,hotel
+20,4.36,Salem,museum
+20,2.41,Salem,night_club
+20,4.1,Salem,restaurant
+1,4.2,Salem,shopping_mall
+20,3.36,Salem,spa
+20,3.47,Salem,stadium
+1,3.8,Salem,zoo
+6,4.42,Salt Lake City,amusement_park
+20,4.45,Salt Lake City,bar
+20,4.55,Salt Lake City,cafe
+15,3.8,Salt Lake City,casino
+20,4.26,Salt Lake City,hotel
+20,4.08,Salt Lake City,museum
+20,3.99,Salt Lake City,night_club
+20,4.48,Salt Lake City,restaurant
+1,5.0,Salt Lake City,shopping_mall
+20,4.66,Salt Lake City,spa
+6,4.5,Salt Lake City,stadium
+7,4.57,Salt Lake City,zoo
+1,4.4,San Antonio,amusement_park
+20,4.44,San Antonio,bar
+20,4.44,San Antonio,cafe
+20,3.37,San Antonio,casino
+20,4.11,San Antonio,hotel
+20,4.58,San Antonio,museum
+20,3.67,San Antonio,night_club
+20,4.62,San Antonio,restaurant
+18,4.24,San Antonio,shopping_mall
+20,4.48,San Antonio,spa
+20,4.49,San Antonio,stadium
+12,3.96,San Antonio,zoo
+2,4.5,San Diego,amusement_park
+20,4.49,San Diego,bar
+20,4.5,San Diego,cafe
+20,3.92,San Diego,casino
+20,4.38,San Diego,hotel
+20,4.51,San Diego,museum
+20,3.88,San Diego,night_club
+20,4.52,San Diego,restaurant
+7,4.3,San Diego,shopping_mall
+20,4.62,San Diego,spa
+15,4.15,San Diego,stadium
+4,4.45,San Diego,zoo
+2,4.3,San Francisco,amusement_park
+20,4.49,San Francisco,bar
+20,4.46,San Francisco,cafe
+20,3.23,San Francisco,casino
+20,4.27,San Francisco,hotel
+20,4.45,San Francisco,museum
+20,3.65,San Francisco,night_club
+20,4.65,San Francisco,restaurant
+3,4.33,San Francisco,shopping_mall
+20,4.36,San Francisco,spa
+20,3.04,San Francisco,stadium
+14,4.03,San Francisco,zoo
+2,4.4,San Jose,amusement_park
+20,4.34,San Jose,bar
+20,4.42,San Jose,cafe
+17,3.34,San Jose,casino
+20,4.11,San Jose,hotel
+20,3.75,San Jose,night_club
+20,4.51,San Jose,restaurant
+4,4.15,San Jose,shopping_mall
+20,4.31,San Jose,spa
+5,4.38,San Jose,stadium
+1,4.5,San Jose,zoo
+20,4.51,Santa Barbara,bar
+20,4.43,Santa Barbara,cafe
+20,3.21,Santa Barbara,casino
+20,4.2,Santa Barbara,hotel
+20,4.3,Santa Barbara,museum
+20,3.99,Santa Barbara,night_club
+20,4.59,Santa Barbara,restaurant
+3,4.27,Santa Barbara,shopping_mall
+20,4.1,Santa Barbara,spa
+14,3.19,Santa Barbara,stadium
+2,4.6,Santa Barbara,zoo
+4,4.45,Santa Rosa,amusement_park
+20,4.34,Santa Rosa,bar
+20,4.51,Santa Rosa,cafe
+6,3.28,Santa Rosa,casino
+20,3.86,Santa Rosa,hotel
+8,4.0,Santa Rosa,museum
+20,3.92,Santa Rosa,night_club
+20,4.58,Santa Rosa,restaurant
+1,4.0,Santa Rosa,shopping_mall
+20,4.37,Santa Rosa,spa
+19,3.62,Santa Rosa,stadium
+2,4.5,Santa Rosa,zoo
+6,3.82,Seattle,amusement_park
+20,4.53,Seattle,bar
+20,4.54,Seattle,cafe
+20,3.83,Seattle,casino
+20,4.31,Seattle,hotel
+20,4.54,Seattle,museum
+20,3.82,Seattle,night_club
+20,4.62,Seattle,restaurant
+20,4.57,Seattle,spa
+7,4.41,Seattle,stadium
+1,4.6,Seattle,zoo
+5,4.22,Spokane,amusement_park
+20,4.52,Spokane,bar
+20,4.54,Spokane,cafe
+20,3.78,Spokane,casino
+20,4.14,Spokane,hotel
+20,3.04,Spokane,museum
+14,4.11,Spokane,night_club
+20,4.53,Spokane,restaurant
+3,4.37,Spokane,shopping_mall
+20,4.6,Spokane,spa
+17,3.72,Spokane,stadium
+2,4.45,Spokane,zoo
+2,4.45,Springfield,amusement_park
+20,4.43,Springfield,bar
+20,4.23,Springfield,cafe
+5,1.52,Springfield,casino
+20,4.04,Springfield,hotel
+20,2.77,Springfield,museum
+20,4.34,Springfield,night_club
+20,4.4,Springfield,restaurant
+20,4.26,Springfield,spa
+11,4.34,Springfield,stadium
+11,4.34,Springfield,zoo
+9,4.19,Syracuse,amusement_park
+20,4.39,Syracuse,bar
+20,4.49,Syracuse,cafe
+9,3.37,Syracuse,casino
+20,4.25,Syracuse,hotel
+14,4.6,Syracuse,museum
+20,3.77,Syracuse,night_club
+20,4.51,Syracuse,restaurant
+2,4.3,Syracuse,shopping_mall
+20,4.05,Syracuse,spa
+20,2.43,Syracuse,stadium
+1,4.5,Syracuse,zoo
+4,2.95,Tacoma,amusement_park
+20,4.49,Tacoma,bar
+20,4.42,Tacoma,cafe
+6,3.82,Tacoma,casino
+20,3.9,Tacoma,hotel
+20,4.62,Tacoma,museum
+20,3.65,Tacoma,night_club
+20,4.48,Tacoma,restaurant
+20,4.57,Tacoma,spa
+3,4.5,Tacoma,zoo
+1,4.4,Tallahassee,amusement_park
+20,4.39,Tallahassee,bar
+20,4.54,Tallahassee,cafe
+17,3.54,Tallahassee,casino
+20,4.12,Tallahassee,hotel
+20,4.17,Tallahassee,museum
+20,4.12,Tallahassee,night_club
+20,4.53,Tallahassee,restaurant
+20,4.51,Tallahassee,spa
+20,3.19,Tallahassee,stadium
+12,4.57,Tallahassee,zoo
+20,3.38,Tampa,amusement_park
+20,4.36,Tampa,bar
+20,4.46,Tampa,cafe
+1,4.2,Tampa,casino
+20,4.09,Tampa,hotel
+20,4.54,Tampa,museum
+20,3.52,Tampa,night_club
+20,4.56,Tampa,restaurant
+2,3.9,Tampa,shopping_mall
+20,4.57,Tampa,spa
+3,4.37,Tampa,stadium
+3,4.67,Tampa,zoo
+3,4.3,Toledo,amusement_park
+20,4.28,Toledo,bar
+20,4.39,Toledo,cafe
+1,4.0,Toledo,casino
+20,3.83,Toledo,hotel
+16,4.44,Toledo,museum
+16,3.55,Toledo,night_club
+20,4.48,Toledo,restaurant
+3,4.0,Toledo,shopping_mall
+20,4.36,Toledo,spa
+12,3.82,Toledo,stadium
+3,4.7,Toledo,zoo
+5,4.22,Tucson,amusement_park
+20,4.45,Tucson,bar
+20,4.43,Tucson,cafe
+20,3.43,Tucson,casino
+20,4.19,Tucson,hotel
+20,4.62,Tucson,museum
+20,4.16,Tucson,night_club
+20,4.56,Tucson,restaurant
+15,4.21,Tucson,shopping_mall
+20,4.36,Tucson,spa
+18,3.52,Tucson,stadium
+7,4.57,Tucson,zoo
+8,3.39,Tulsa,amusement_park
+20,4.44,Tulsa,bar
+20,4.4,Tulsa,cafe
+20,3.86,Tulsa,casino
+20,4.1,Tulsa,hotel
+20,4.18,Tulsa,museum
+20,3.7,Tulsa,night_club
+20,4.58,Tulsa,restaurant
+8,4.05,Tulsa,shopping_mall
+20,4.5,Tulsa,spa
+19,3.94,Tulsa,stadium
+1,4.5,Tulsa,zoo
+12,4.38,Vancouver,amusement_park
+20,4.17,Vancouver,bar
+20,4.42,Vancouver,cafe
+15,3.61,Vancouver,casino
+20,4.27,Vancouver,hotel
+20,4.36,Vancouver,museum
+20,3.47,Vancouver,night_club
+20,4.54,Vancouver,restaurant
+20,4.45,Vancouver,spa
+9,3.73,Vancouver,stadium
+1,3.9,Vancouver,zoo
+20,4.46,Virginia Beach,bar
+20,4.58,Virginia Beach,cafe
+13,3.21,Virginia Beach,casino
+20,4.03,Virginia Beach,hotel
+20,4.35,Virginia Beach,museum
+20,3.84,Virginia Beach,night_club
+20,4.54,Virginia Beach,restaurant
+2,4.0,Virginia Beach,shopping_mall
+20,4.23,Virginia Beach,spa
+3,4.63,Virginia Beach,zoo
+11,4.06,Washington,amusement_park
+20,4.45,Washington,bar
+20,4.51,Washington,cafe
+20,3.9,Washington,casino
+20,4.44,Washington,hotel
+20,4.57,Washington,museum
+20,3.65,Washington,night_club
+20,4.48,Washington,restaurant
+4,4.18,Washington,shopping_mall
+20,4.39,Washington,spa
+20,4.43,Washington,stadium
+20,4.49,Washington,zoo
+20,4.26,West Palm Beach,amusement_park
+20,4.36,West Palm Beach,bar
+20,4.55,West Palm Beach,cafe
+20,3.64,West Palm Beach,casino
+20,4.1,West Palm Beach,hotel
+17,4.46,West Palm Beach,museum
+20,3.25,West Palm Beach,night_club
+20,4.5,West Palm Beach,restaurant
+20,3.85,West Palm Beach,shopping_mall
+20,4.41,West Palm Beach,spa
+2,2.3,West Palm Beach,stadium
+1,4.5,West Palm Beach,zoo
+6,4.32,Wichita,amusement_park
+20,4.33,Wichita,bar
+20,4.49,Wichita,cafe
+3,3.9,Wichita,casino
+20,4.19,Wichita,hotel
+20,4.1,Wichita,museum
+20,4.13,Wichita,night_club
+20,4.52,Wichita,restaurant
+20,4.44,Wichita,spa
+15,3.21,Wichita,stadium
+3,4.57,Wichita,zoo
