@@ -1,18 +1,18 @@
 State/Cities,State,Average Daily Cost per person
 Sedona,AZ,34
-Chattanooga, TN,35
+Chattanooga,TN,35
 Durango,CO,49
 Ocean City,MD,56
 Boone,IL,57
 Pittsburg,PA,60
-Virginia Beach, VA,60
-Memphis, TN,61
-Albuqueque,NM,72
+Virginia Beach,VA,60
+Memphis,TN,61
+Albuquerque,NM,72
 Durham,NC,73
 Michigan,MI,79
 Yellow Stone National Park,WY,89
 Williamsburg,VA,90
-Raleigh, NC,92
+Raleigh,NC,92
 Roswell,NM,93
 Rapid City,SD,93
 Saint Augustine,FL,94
@@ -20,27 +20,27 @@ Grand Teton National Park,WY,95
 Zion National Park,UT,95
 Santa Cruz,CA,101
 Glacier National Park,MT,102
-Cincinnati, OH,103
-Dallas, TX,103
-Colorado Spring,CO,104
+Cincinnati,OH,103
+Dallas,TX,103
+Colorado,CO,104
 Yosemite National Park,CA,104
-Cleveland, OH,106
-San Antonio, TX,106
-Asheville, NC,106
+Cleveland,OH,106
+San Antonio,TX,106
+Asheville,NC,106
 Cody ,WY,108
 Bryce Canyon National Park,UT,108
 Lewisburg,PA,109
 Monterey,CA,111
-Reno, NV,113
-Charleston, SC,113
-Phoneix,AZ,114
-Austin, TX,114
+Reno,NV,113
+Charleston,SC,113
+Phoenix,AZ,114
+Austin,TX,114
 Hood River,OR,116
 Cocoa Beach,FL,116
-Tampa, FL,118
+Tampa,FL,118
 Fort Lauderdale,FL,118
-"Portland, Maine",ME,120
-Daytona,FL,121
+Portland,ME,120
+Daytona Beach,FL,121
 Savannah,GA,122
 Moab,UT,124
 Greenville,SC,125
